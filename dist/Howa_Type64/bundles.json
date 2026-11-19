@@ -1,0 +1,61 @@
+{
+    "manifest": [
+        {
+            "key": "client_assets.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "client_textures.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "mod_bipod_type64.bundle",
+            "dependencyKeys": [
+                "client_assets.bundle",
+                "client_textures.bundle"
+            ]
+        },
+        {
+            "key": "mod_front_sight_type64.bundle",
+            "dependencyKeys": [
+                "client_assets.bundle",
+                "client_textures.bundle"
+            ]
+        },
+        {
+            "key": "mod_handguard_type64_stamped_steel.bundle",
+            "dependencyKeys": [
+                "client_assets.bundle",
+                "client_textures.bundle"
+            ]
+        },
+        {
+            "key": "mod_magazine_type64_20rnd.bundle",
+            "dependencyKeys": [
+                "client_assets.bundle",
+                "client_textures.bundle"
+            ]
+        },
+        {
+            "key": "mod_mount_type64_piccatiny_rail.bundle",
+            "dependencyKeys": [
+                "client_assets.bundle",
+                "client_textures.bundle"
+            ]
+        },
+        {
+            "key": "mod_rear_sight_type64.bundle",
+            "dependencyKeys": [
+                "client_assets.bundle",
+                "client_textures.bundle"
+            ]
+        },
+        {
+            "key": "weapon_howa_type64_container.bundle",
+            "dependencyKeys": [
+                "client_assets.bundle",
+                "client_textures.bundle"
+            ]
+        }
+    ]
+}
